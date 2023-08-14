@@ -13,7 +13,7 @@ import torchfcn
 from train_fcn32s import get_parameters
 from train_fcn32s import git_hash
 
-
+# 获取当前脚本的绝对路径
 here = osp.dirname(osp.abspath(__file__))
 
 
